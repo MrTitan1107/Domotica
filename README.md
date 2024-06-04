@@ -3,5 +3,6 @@ O primeiro que fixemos foi escoller un equipo de baixo consumo e baixo rendement
 Posteriormente fixemos algunhas prácticas con alguns sensores e actuadores: programamos e configuramos un fluxo en Node red para encender a apgar un lez cun swich de maneira remota, tamen de maneira manual cun boton e por ultimo lle conectamos un sensor dht11 para medir a temperatura e humidade.  
 
 Automatizaciones:
+
 1-Un swich cierre todas las ventanas y persianas y apague las luces(opcional tambien que encianda una alarma) para cuando te vas de casa 
-2-Un sensor en el cesped que cuando detecne cierto nivel decalor o o poca humedad en la hierva encienda el riego automatico
+2-Un sensor en el cesped que cuando detecte cierto nivel de calor o o poca humedad en la hierva encienda el riego automatico
