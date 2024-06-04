@@ -9,3 +9,5 @@ Automatizaciones:
 1-Un swich cierre todas las ventanas y persianas y apague las luces(opcional tambien que encianda una alarma) para cuando te vas de casa 
 2-Un sensor en el cesped que cuando detecte cierto nivel de calor o o poca humedad en la hierva encienda el riego automatico
 
+![nodos_Miguel](https://github.com/MrTitan1107/Domotica/assets/171036155/7fbf9cdd-20c0-4757-bf61-c0560ff48cbc)
+![Flow_Captura de pantalla_MiguelFdz(3)](https://github.com/MrTitan1107/Domotica/assets/171036155/d27b856a-beee-4343-af98-f82f780a1af6)
