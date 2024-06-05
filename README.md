@@ -11,3 +11,4 @@ Automatizaciones:
 
 ![nodos_Miguel](https://github.com/MrTitan1107/Domotica/assets/171036155/7fbf9cdd-20c0-4757-bf61-c0560ff48cbc)
 ![Flow_Captura de pantalla_MiguelFdz(3)](https://github.com/MrTitan1107/Domotica/assets/171036155/d27b856a-beee-4343-af98-f82f780a1af6)
+![EsquemaConexions_bb](https://github.com/MrTitan1107/Domotica/assets/171036155/364a8635-7968-44cb-b7c9-6d9b1d3f1b4b)
